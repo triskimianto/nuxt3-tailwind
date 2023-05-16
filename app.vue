@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto vh-100">
     <!-- header -->
-    <!-- <NuxtLayout :name="header"></NuxtLayout> -->
+    <NuxtLayout :name="header"></NuxtLayout>
     <!-- content -->
     <NuxtLayout :name="content">      
       <div class="flex flex-col py-8 md:flex-row justify-between">
@@ -69,7 +69,7 @@
       </div>-->
     </NuxtLayout>
     <!-- footer -->
-    <!-- <NuxtLayout :name="footer"></NuxtLayout> -->
+    <NuxtLayout :name="footer"></NuxtLayout>
   </div>
 </template>
 
