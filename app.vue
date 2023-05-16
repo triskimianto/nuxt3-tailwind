@@ -75,7 +75,7 @@
 </style>
 
 <script setup>
-  const header = 'header'
-  const content = 'content'
-  const footer = 'footer'
+  const header = 'header';
+  const content = 'content';
+  const footer = 'footer';
 </script>
