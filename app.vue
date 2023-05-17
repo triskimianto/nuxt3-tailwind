@@ -3,12 +3,14 @@
     <!-- header -->
     <NuxtLayout :name="header"></NuxtLayout>
     <!-- content -->
-    <NuxtLayout :name="content">      
+    <NuxtPage></NuxtPage>
+
+    <!-- <NuxtLayout :name="content">      
       <div class="flex flex-col py-8 md:flex-row justify-between">
         <card :url="url1" :alt="alt1" :title="title1" :desc="desc1" :menuTag="menuTag1"></card>
         <card :url="url2" :alt="alt2" :title="title2" :desc="desc2" :menuTag="menuTag2"></card>
         <card :url="url3" :alt="alt3" :title="title3" :desc="desc3" :menuTag="menuTag3"></card>        
-      </div>
+      </div> -->
       <!--<div class="flex items-center justify-center h-16">
           <span class="text-2xl font-bold text-center">Resep Cheese Burger Ala IN-N-OUT California Amerika [Sausnya Special]</span>
       </div>
@@ -67,7 +69,7 @@
       <div class="flex items-center justify-center">
               <iframe class="w-full rounded-lg h-96" src="https://www.youtube.com/embed/KiHBmYx_G9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>-->
-    </NuxtLayout>
+    <!-- </NuxtLayout> -->
     <!-- footer -->
     <NuxtLayout :name="footer"></NuxtLayout>
   </div>
@@ -81,21 +83,6 @@
 
 <script setup>
   const header = 'header';
-  const content = 'content';
+  // const content = 'content';
   const footer = 'footer';
-  const url1 = '/images/img1.jpg';
-  const alt1= 'Photo by amirali mirhashemian on Unsplash';
-  const title1 = 'Burger recipe';
-  const desc1 = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus optio minima sequi incidunt commodi architecto consectetur sunt. Nisi cupiditate assumenda asperiores! Iste fugit ut amet, architecto cupiditate explicabo totam repudiandae.';
-  const menuTag1 = 'burger';
-  const url2 = '/images/img2.jpg';
-  const alt2= 'Photo by Bawah Reserve on Unsplash';
-  const title2 = 'Rendang recipe';
-  const desc2 = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus optio minima sequi incidunt commodi architecto consectetur sunt. Nisi cupiditate assumenda asperiores! Iste fugit ut amet, architecto cupiditate explicabo totam repudiandae.';
-  const menuTag2 = 'rendang';
-  const url3 = '/images/img3.jpg';
-  const alt3= 'Photo by Mahmoud Fawzy on Unsplash';
-  const title3 = 'Sushi roll recipe';
-  const desc3 = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus optio minima sequi incidunt commodi architecto consectetur sunt. Nisi cupiditate assumenda asperiores! Iste fugit ut amet, architecto cupiditate explicabo totam repudiandae.';
-  const menuTag3 = 'sushi';
 </script>
