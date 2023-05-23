@@ -2,7 +2,7 @@
     <NuxtLayout :name="content">
         <div class="max-w-sm w-full rounded-lg bg-white mb-8 lg:max-w-full lg:flex">                
             <div class="w-full px-6 py-4">
-                <div class="flex flex-row">
+                <div class="flex flex-col md:flex-row">
                     <NuxtLink to="/" class="w-1/4 text-xl hover:text-pink-700">Kembali</NuxtLink>
                     <h1 class="w-2/3 text-xl">
                         Tugas 9 - 
@@ -11,7 +11,7 @@
                 </div>                
             </div>
         </div>
-        <div class="grid grid-cols-3 gap-4">
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-3">
             <!-- looping untuk card (v-for) -->
             <div v-for="p in produk" :key="p.id" class="bg-white rounded-lg hover:shadow-md">
               <img :src="p.image" class="rounded-tl-lg rounded-tr-lg" />
