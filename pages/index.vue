@@ -1,5 +1,15 @@
 <template>
     <NuxtLayout :name="content">
+        <div class="flex flex-col py-4 md:flex-row lg:px-4 justify-between">
+            <NuxtLink to="/tugas-9" class="max-w-sm w-full rounded-lg bg-white lg:max-w-full lg:flex hover:shadow-lg hover:text-violet-700">                
+                <div class="px-6 py-4">
+                    <h1 class="text-2xl hover:text-violet-700">
+                        Tugas 9 - 
+                        <span class="font-bold text-2xl hover:text-violet-700">Loop dan Menampilkan JSON</span>        
+                    </h1>
+                </div>
+            </NuxtLink>
+        </div>
         <div class="flex px-4 py-2">
             <h1 class="text-2xl text-black font-bold">
                 Recipes Of The Day 
