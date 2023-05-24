@@ -25,6 +25,10 @@
 </template>
 
 <script setup>
+    useHead({
+        title: 'Cooking Recipes',
+    });
+
     // route
     const route = useRoute();
     console.log(route.params);
