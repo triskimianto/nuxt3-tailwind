@@ -1,0 +1,609 @@
+[
+    {
+        "id": 0,
+        "slug": "sundanese-special-sambal-tempe-goang-recipe",
+        "imageSrc": "https://i.ytimg.com/vi/tpOwpZYZ9lE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRW3LS5tSXpSKmR9pEO4MPLH27ZA",
+        "videoSrc": "https://www.youtube.com/watch?v=tpOwpZYZ9lE",
+        "title": "Sundanese Special SAMBAL TEMPEH GOANG Recipe",
+        "isFeatured": "yes",
+        "categories": [
+            "Indonesian Cuisine",
+            "Other",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "id": 0,
+                "title": "Ingredients",
+                "content": "<li>200 g tempeh</li><li>2 clove garlic</li><li>25 g red Thai chili</li><li>45 g green Thai chili</li><li>1.5 tsp sugar</li><li>1 tsp mushroom powder / MSG</li><li>1 tsp salt</li><li>3-4 tbsp hot oil</li>"
+            },
+            {
+                "id": 1,
+                "title": "Others",
+                "content": "<li>Rice</li><li>Crackers</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Slice the tempeh. Fry until browned and set aside.</li><li>Add garlic, salt, mushroom powder, and sugar to the stone bowl. Grind until smooth.</li><li>Add green and red Thai chili. Grind until smooth.</li><li>Heat the oil. Pour hot oil into the Sambal. Stir well.</li><li>Add the tempeh in and mash it. Stir well.</li><li>Sambal Tempeh Goang is ready to serve.</li>"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "slug": "special-east-java-special-rawon-recipe",
+        "imageSrc": "https://i.ytimg.com/vi/XYev1tljzUE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8O5W_BKy0BLYfUO0Uoegg3sCNHg",
+        "videoSrc": "https://www.youtube.com/watch?v=XYev1tljzUE",
+        "title": "Special! EAST JAVA SPECIAL RAWON RECIPE",
+        "isFeatured": "yes",
+        "categories": [
+            "Indonesian Cuisine",
+            "Meat",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "id": 0,
+                "title": "Ingredients",
+                "content": "<li>500 g beef shank</li><li>2 pc lemongrass, pounded, sliced</li><li>2 pc bay leaf</li><li>5 pc kaffir lime leaf</li><li>1 pc red tomato</li><li>1.5 L water</li><li>¾ tbsp salt</li><li>2 tsp stock powder / MSG</li><li>1.5 tbsp sugar</li><li>½ tsp pepper</li><li>1 pc green onion, sliced</li>"
+            },
+            {
+                "id": 1,
+                "title": "Blended Spices Ingredients",
+                "content": "<li>6 clove garlic</li><li>10 pc shallot</li><li>5 pc keluak</li><li>4 pc toasted candlenut</li><li>3 cm turmeric</li><li>50 ml oil</li><li>50 ml water</li>"
+            },
+            {
+                "id": 2,
+                "title": "Sambal Ingredients",
+                "content": "<li>20 pc red Thai chili</li><li>3 clove garlic</li><li>50 ml water</li><li>¼ tsp salt</li><li>½ tsp sugar</li><li>¼ tsp stock powder / MSG</li><li>Oil, as needed</li>"
+            },
+            {
+                "id": 3,
+                "title": "Add-ons",
+                "content": "<li>Salted egg</li><li>Fried shallot</li><li>Lime</li><li>Bean sprout</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Blend the garlic, shallots, candlenuts, keluak, turmeric, and oil. Add water and blend smoothly.</li><li>Sauté the blended spices on medium-low heat until oily. Then, add lemongrass, kaffir lime leaf, and bay leaf. Sauté until fragrant.</li><li>Add water. Bring to a boil, then transfer into the pressure cooker.</li><li>Add meat, red tomato, green onions, salt, stock powder, pepper, and sugar. Cook for 60 minutes.</li><li>For the Sambal, chop the Thai chili and garlic with a food processor.</li><li>Heat some oil and sauté the chopped chili for a moment. Then, add water, salt, sugar, and stock powder. Cook until the water is reduced and set aside.</li><li>Assemble the ingredients in a bowl. Add salted egg, bean sprouts, lime, Sambal, and fried shallots.</li><li>Rawon is ready to serve.</li>"
+            }
+        ]
+    },
+    {
+        "slug": "balinese-special-betutu-chicken-recipe",
+        "imageSrc": "https://i.ytimg.com/vi/8L2FdhuVbQM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoYTBZjX7GzhX4feq_tz67aAEJQA",
+        "videoSrc": "https://www.youtube.com/watch?v=8L2FdhuVbQM",
+        "title": "Balinese Special BETUTU CHICKEN Recipe",
+        "isFeatured": "yes",
+        "categories": [
+            "Indonesian Cuisine",
+            "Chicken",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Blended Spices Ingredients",
+                "content": "<li>5 clove garlic</li><li>3 pc candlenut</li><li>8 g shrimp paste</li><li>1 tsp coriander</li><li>¾ tsp cumin</li><li>60 ml oil / coconut oil</li>"
+            },
+            {
+                "title": "Sliced Ingredients",
+                "content": "<li>100 g shallot</li><li>20 g galangal, sliced</li><li>30 g lemongrass, sliced</li><li>15 g aromatic ginger, sliced</li><li>30 g turmeric, sliced</li><li>20 g ginger, sliced</li><li>40 g red chili, sliced</li><li>30 g red bird’s eye chili</li>"
+            },
+            {
+                "title": "Other Ingredients",
+                "content": "<li>2 pc rooster chicken (total 1.6 kg)</li><li>1 tbsp palm sugar</li><li>3 pc bay leaf</li><li>5 pc kaffir lime leaf</li><li>½ pc nutmeg</li><li>2 pc clove</li><li>1 L water</li><li>2 tsp salt</li><li>1.5 tsp stock powder / flavor enhancer</li><li>½ tsp pepper</li>"
+            },
+            {
+                "title": "Squashed Long Beans",
+                "content": "<li>250 g long beans, halved</li><li>2-3 tbsp sautéd basic spice</li><li>50 ml coconut milk</li><li>½ tsp salt</li><li>¼ tsp pepper</li><li>½ tsp stock powder / flavor enhancer</li><li>150 ml water</li>"
+            },
+            {
+                "title": "Shrimp Paste Sambal",
+                "content": "<li>17 pc red bird’s eye chili</li><li>4 pc red chili, sliced</li><li>10 pc shallot</li><li>1 pc tomato</li><li>100 ml oil</li><li>2 sachet shrimp paste, roasted</li><li>½ tsp salt</li><li>1 tbsp sugar</li><li>½ tsp stock powder / flavor enhance</li>"
+            },
+            {
+                "title": "Sambal Matah",
+                "content": "<li>12 pc shallot, sliced</li><li>8 pc red bird’s eye chili, sliced</li><li>¾ tsp shrimp paste, roasted</li><li>3 pc kaffir lime</li><li>½ tsp salt</li><li>1 tsp sugar</li><li>¼ tsp flavor enhancer</li><li>30 ml hot oil</li>"
+            },
+            {
+                "title": "Add-ons",
+                "content": "<li>Fried peanuts, skin-on</li><li>Fried shallots</li><li>Fried garlic</li><li>Rice</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Blend garlic, candlenut, coriander, cumin, shrimp paste, and oil in a blender then add turmeric, ginger, galangal, lemongrass, red chili, shallots, and cayenne pepper and blend again.</li><li>Heat a wok, saute the spices until fragrant then add nutmeg, cloves, lime leaves, and bay leaves, cook until cooked then set aside 2-3 tbsp of seasoning</li><li>Add chicken, water, salt, pepper, broth powder, and brown sugar, cook until tender for 90-120 minutes.</li><li>For the long bean bejek, heat a wok, add the remaining spice paste then add the long beans and water</li><li>Add salt, pepper, and bouillon powder, cook until the water is slightly reduced, then add coconut milk and stir well.</li><li>For sambal matah, combine shallots, red chili peppers, and lime juice then add salt, sugar, and bouillon powder</li><li>Add the burnt shrimp paste, crush it and then add the hot oil, stir well.</li><li>For sambal terasi, heat oil, add red chili, shallots, and cayenne pepper, cook until slightly wilted then add tomatoes</li><li>Transfer into a food processor, then puree</li><li>Add the burnt shrimp paste, puree and cook again. </li><li>Add salt, sugar, and stock powder and stir.</li><li>Betutu chicken is ready to serve.</li>"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "slug": "definitely-crispy-chicken-wings-ala-wingstop-recipe",
+        "imageSrc": "https://i.ytimg.com/vi/GPd7LCKgR_M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9TUu1KqE7dfokN3C1wgi5M0WvyQ",
+        "videoSrc": "https://www.youtube.com/watch?v=GPd7LCKgR_M",
+        "title": "DEFINITELY crispy! Chicken Wings Ala Wingstop Recipe",
+        "isFeatured": "no",
+        "categories": [
+            "Western & European Cuisine",
+            "Chicken",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Ingredients",
+                "content": "<li>12 pc chicken wings, halved</li><li>2-3 clove garlic, grated</li><li>3 tbsp fish sauce or ½ tbsp salt</li><li>1 tsp pepper</li><li>1 tbsp vinegar</li>"
+            },
+            {
+                "title": "Coating",
+                "content": "<li>8 tbsp all-purpose flour</li><li>8 tbsp cornstarch</li><li>1 tsp salt</li>"
+            },
+            {
+                "title": "Spicy Sauce",
+                "content": "<li>3 tbsp oil</li><li>2 tbsp onion, chopped</li><li>2 tbsp ginger liquid</li><li>6 pc bird’s eye chili, chopped</li><li>1 tsp paprika powder</li><li>3 tbsp barbecue sauce / tomato sauce</li><li>1½ tbsp oyster sauce</li><li>½ tbsp sugar</li>"
+            },
+            {
+                "title": "Lemon Pepper Sauce",
+                "content": "<li>3 tbsp butter</li><li>3-4 tbsp lemon juice</li><li>1-2 tbsp sugar</li><li>1 tsp onion powder</li><li>1 tsp mixed herbs (me: italian herbs)</li><li>Lemon zest</li><li>Black pepper</li><li>½ tsp salt</li>"
+            },
+            {
+                "title": "Others",
+                "content": "<li>Oil for frying</li><li>White sauce</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Marinate the chicken that has been cut into 2 pieces with grated garlic, vinegar, fish sauce, and pepper then stir and make sure all the spices are evenly distributed throughout the surface of the chicken then let stand 30 minutes - 1 hour at room temperature or overnight in the refrigerator.</li><li>Combine the flour, cornstarch, and salt and stir until smooth</li><li>Coat the entire surface of the marinated chicken with the flour coating until even, fry in hot oil using medium heat (170°-180°) for 7-10 minutes or until golden brown, drain.</li><li>For the spicy sauce, heat oil then saute chopped onion (after the onion smells good, you can set it aside or not) then add chopped cayenne pepper, saute for a minute, then reduce heat and add the remaining ingredients, cook until evenly distributed. Add the fried chicken wings, stir until smooth then turn off the heat.</li><li>For lemon pepper sauce, heat the pan then add butter and mixed herbs then after melting add lemon juice that has been stirred with sugar until dissolved, lemon zest, onion powder, black pepper, and salt then mix well. Add the fried chicken wings, stir until smooth then turn off the heat.</li><li>Serve chicken wings with white sauce or dipping sauce according to taste.</li>"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "slug": "cheese-burger-ala-in-n-out-california-america-recipe",
+        "imageSrc": "https://img.youtube.com/vi/KiHBmYx_G9k/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=KiHBmYx_G9k",
+        "title": "Cheese Burger Ala IN-N-OUT California America Recipe [Special Sauce]",
+        "isFeatured": "no",
+        "categories": [
+            "Western & European Cuisine",
+            "Burger",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Sauce",
+                "content": "<li>8 tbsp mayonnaise</li><li>3 tbsp tomato sauce</li><li>1 tbsp chili sauce</li><li>1 tbsp Worcestershire sauce</li><li>1 tsp paprika powder</li><li>1 tsp garlic powder</li><li>2 tbsp sugar</li><li>1 tbsp vinegar</li><li>2 tbsp chopped green onions</li><li>2 tbsp chopped pickled gherkins</li><li>Salt</li>"
+            },
+            {
+                "title": "Caramelized Onions",
+                "content": "<li>3 pc onion, sliced</li><li>3 tbsp oil</li><li>1 tbsp butter</li><li>1 clove garlic, sliced (optional)</li><li>A pinch of thyme (opional)</li><li>⅓ tsp salt</li><li>¼ tsp pepper</li>"
+            },
+            {
+                "title": "Others",
+                "content": "<li>4 pc burger bun</li><li>400 g fatty ground beef</li><li>1 tbsp butter</li><li>Black pepper</li><li>Salt</li><li>Red cheddar sliced cheese</li><li>Iceberg lettuce</li><li>1 pc tomato, sliced</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>To make the dressing, combine the pickled gherkins and chopped spring onions in a bowl then add the soy sauce, paprika powder, garlic powder, sugar, and vinegar and mix well. Add the chili sauce, ketchup, and mayonnaise and stir to combine, you can also add a pinch of salt if needed.</li><li>To make the caramelized onion, heat the oil then sauté the sliced onion over high heat until wilted then add the garlic and thyme leaves then season with salt and pepper.</li><li>Reduce the heat, and cook the onions until browned, stirring occasionally, adding the butter and then turn off the heat.</li><li>To make the patties, take the ground beef (size adjusted to the size of the burger patties) and toss it with both hands so that it blends then grill then flatten it with a spatula and season with salt and black pepper</li><li>Turn the patty over and top with red cheddar cheese and cook until cooked through and the cheese is melted. The patty can be covered with a pan so that the cheese melts quickly.</li><li>Halve the burger bun, then toast with a little butter until browned on the inside.</li><li>Arrange the burger buns, spread with sauce then add tomato, iceberg lettuce, patty, caramelized onion, sauce, a little black pepper, and cover with burger bun.</li><li>Cheese burger is ready to serve.</li>"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "slug": "a-family-favourite-american-chicken-noodle-soup-recipe",
+        "imageSrc": "https://img.youtube.com/vi/GjUI-ho-dY8/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=GjUI-ho-dY8",
+        "title": "A Family Favorite! American Chicken Noodle Soup Recipe",
+        "isFeatured": "no",
+        "categories": [
+            "Western & European Cuisine",
+            "Chicken",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Ingredients",
+                "content": "<li>750 g broiler chicken, chopped into 8 pieces</li><li>5 clove garlic</li><li>5 pc shallot</li><li>½ pc onion</li><li>245 g carrot</li><li>4 pc celery</li><li>85 g green bean</li><li>100 g dry macaroni</li><li>¼ tsp nutmeg powder, optional</li><li>1 tbsp Royco Chicken Powder</li><li>1 tbsp margarine</li><li>1 tsp salt</li><li>1 tbsp sugar</li><li>¼ tsp pepper</li><li>2.5 L water</li><li>Oil to sauté</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Heat some oil. Pan-sear the chicken until browned on both sides. Set aside some of the oil.</li><li>Slice the shallots and garlic, then sauté them until fragrant.</li><li>Add margarine and nutmeg powder. Sauté until fragrant, then add water and bring to a boil.</li><li>Slice the carrots, green beans, onion, and celery.</li><li>Add the carrots, green beans, onion, and macaroni. Then, add Royco Chicken Powder, sugar, salt, and pepper. Cook for 15 minutes or until soft.</li><li>Set the chicken aside, then shred.</li><li>Add the shredded chicken back into the soup. Add celery and cook for 3-5 minutes.</li><li>Chicken Noodle Soup is ready to serve.</li>"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "slug": "crispy-sweet-savory-korean-honey-fried-chicken-recipe",
+        "imageSrc": "https://img.youtube.com/vi/KnKp7ls6BP0/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=KnKp7ls6BP0",
+        "title": "Crispy, Sweet, Savory! Korean Honey Fried Chicken Recipe [Local Ingredients, Restaurant Quality]",
+        "isFeatured": "no",
+        "categories": [
+            "Japanese & Korean Cuisine",
+            "Chicken",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Ingredients",
+                "content": "<li>200 g chicken thigh fillet, diced</li><li>1 tsp minced garlic</li><li>1/2 tsp grated ginger</li><li>1 pc egg</li><li>2 tbsp cornstarch</li><li>1 tsp sesame oil</li><li>2 tbsp coconut milk</li><li>1/2 tsp salt</li><li>1/2 tsp sugar</li><li>1/4 tsp pepper</li><li>1/4 tsp flavor enhancers / mushroom stock powder</li>"
+            },
+            {
+                "title": "Dry Coating",
+                "content": "<li>1 cup all-purpose flour</li><li>2 tbsp cornstarc</li>"
+            },
+            {
+                "title": "Sauce",
+                "content": "<li>2 tbsp soy sauce</li><li>4 tbsp honey</li><li>1 tbsp palm sugar</li><li>2 tbsp sesame oil</li><li>2 tbsp oil</li><li>2 tsp minced garlic</li><li>3 tsp sesame seed</li>"
+            },
+            {
+                "title": "Garnish",
+                "content": "<li>1 stalk green onions, sliced</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Mix the chicken with all the marinating ingredients. Marinate for at least 30 minutes to let the liquid get absorbed.</li><li>Combine the flour and cornstarch.</li><li>Dip the chicken into the dry coating until evenly coated and fry until golden brown.</li><li>For the sauce, sauté the garlic with oil and add all the other ingredients. Cook until it thickens.</li><li>Add the chicken in. Stir well.</li><li>Korean Honey Chicken is ready to serve with sliced green onions as the garnish.</li>"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "slug": "local-ingredients-sausage-egg-onigirazu-recipe",
+        "imageSrc": "https://img.youtube.com/vi/pGpuDh526fA/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=pGpuDh526fA",
+        "title": "Local Ingredients Sausage & Egg Onigirazu Recipe!",
+        "isFeatured": "no",
+        "categories": [
+            "Japanese & Korean Cuisine",
+            "Onigirazu",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Rice Ingredients",
+                "content": "<li>180 g Japanese rice (140 g regular rice + 40 g white glutinous rice)</li><li>250 ml water</li><li>½ tsp salt</li>"
+            },
+            {
+                "title": "Other Ingredients",
+                "content": "<li>Kanzler Cheese Cocktail Sausage</li><li>3 tbsp mayonnaise</li><li>2 pc egg</li><li>2 pc nori / omelet</li><li>¼ tsp salt</li><li>Black pepper, to taste</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Mix regular rice with white glutinous rice and rinse.</li><li>Place into the rice cooker and add water. Cook through.</li><li>Once the rice is cooked, stir and season with salt. Mix well.</li><li>Transfer the rice into a bowl and cover with plastic wrap.</li><li>Boil Kanzler Cheese Cocktail Sausage for 1-2 minutes. Set aside.</li><li>Whisk the egg. Season with salt and stir.</li><li>Heat some oil. Add the egg in and cook until half-done while stirring.</li><li>Get one sheet of nori. Add rice evenly.</li><li>Add mayonnaise, black pepper, egg, Kanzler Cheese Cocktail Sausage, and rice. Wrap and pack it in.</li><li>Sausage and Egg Onigirazu is ready to serve.</li>"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "slug": "gyu-kaku-pudding-recipe",
+        "imageSrc": "https://img.youtube.com/vi/QTS86nvYLuc/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=QTS86nvYLuc",
+        "title": "Gyu-Kaku Pudding Recipe",
+        "isFeatured": "no",
+        "categories": [
+            "Japanese & Korean Cuisine",
+            "Pudding",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Ingredients",
+                "content": "<li>350 ml cream</li><li>200 ml water</li><li>60 ml Indomilk Plain Condensed Milk</li><li>1.5 tsp or 5 g gelatin powder</li><li>1 tsp vanilla extract</li>"
+            },
+            {
+                "title": "Brown Sugar Sauce Ingredients",
+                "content": "<li>100 ml water</li><li>50 g brown sugar</li><li>50 g white sugar</li>"
+            },
+            {
+                "title": "Other Toppings",
+                "content": "<li>Indomilk Swiss Choco Condensed Milk</li><li>Roasted cashew</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Add 1-2 tbsp to the gelatin.</li><li>In a pan, add the cream, water, vanilla extract, and Indomilk Plain Condensed Milk. Cook on medium-low heat while stirring until it simmers.</li><li>Turn the heat off. Add the gelatin. Mix well, then strain it.</li><li>Transfer the mixture into a bowl. Let cool on room temp, then chill in the fridge for 3 hours or until it sets.</li><li>For the Brown Sugar Sauce, cook the white sugar with a bit of water until browned, then add the rest of the water and the brown sugar. Cook until the sugar is dissolved, then strain the sauce.</li><li>Grind the cashews with a blender.</li><li>Pour the Brown Sugar Sauce on the pudding, then sprinkle with cashew.</li><li>For other topping, pour the Indomilk Swiss Choco Condensed Milk, then sprinkle with cashew.</li><li>Gyu-Kaku Pudding is ready to serve.</li>"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "slug": "super-crispy-shihlin-taiwanese-crispy-fried-chicken-recipe",
+        "imageSrc": "https://img.youtube.com/vi/HThYtCL25b4/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=HThYtCL25b4",
+        "title": "SUPER Crispy: Shihlin Taiwanese Crispy Fried Chicken Recipe",
+        "isFeatured": "no",
+        "categories": [
+            "Chinese Cuisine",
+            "Chicken",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Ingredients",
+                "content": "<li>1 chicken breast</li><li>1 tsp Ngo hiang powder</li><li>2 tsp garlic</li><li>2 tsp chicken powder / stock powder (Brand used: Knorr)</li><li>1 tsp salt</li><li>1 tsp pepper</li><li>1 tbsp all-purpose flour</li><li>1 tbsp cornstarch</li><li>Water as needed</li><li>1 egg</li>"
+            },
+            {
+                "title": "Coating Ingredients",
+                "content": "<li>Tapioca flour</li><li>Water</li>"
+            },
+            {
+                "title": "Toppings",
+                "content": "<li>Ngo hiang powder and chicken powder (1:3 ratio)</li><li>Chili powder, as needed</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Fillet the chicken breast.</li><li>Add garlic, chicken powder, Ngo hiang powder, salt, pepper, all-purpose flour, cornstarch, and water. Mix well.</li><li>Cover with plastic wrap and let it rest for 30-120 minutes.</li><li>Add the egg and mix well.</li><li>Coat the chicken with the crispy coating evenly.</li><li>Fry until crispy.</li><li>Sprinkle with the toppings.</li><li>Ready to serve.</li>"
+            },
+            {
+                "title": "Steps To Make The Crispy Coating",
+                "content": "<li>Add tapioca flour.</li><li>Add some water until the flour becomes firm in texture and not watery.</li><li>Crumble the flour with a fork.</li><li>First, sift with the large strainer.</li><li>Second, sift with the fine mesh strainer.</li><li>Bake in the oven at 100°C for 12-15 minutes.</li><li>Crispy coating is ready to use.</li>"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "slug": "crisp-and-easy-reataurant-quality-family-favorite-dish-egg-foo-young-recipe",
+        "imageSrc": "https://img.youtube.com/vi/PZlZqqs7tuw/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=PZlZqqs7tuw",
+        "title": "Crisp and Easy, Restaurant-Quality Family-Favorite Dish: Egg Foo Young Recipe",
+        "isFeatured": "no",
+        "categories": [
+            "Chinese Cuisine",
+            "Egg",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Ingredients",
+                "content": "<li>3 eggs</li><li>2 leaves cabbage</li><li>1/2 carrot</li><li>40 g minced chicken</li><li>40 g shrimp</li><li>3 tbsp potato starch / cornstarch</li><li>1 clove minced garlic</li><li>1 stalk green onion</li><li>Salt, to taste</li><li>Pepper, to taste</li><li>Cooking oil</li>"
+            },
+            {
+                "title": "Sauce Ingredients",
+                "content": "<li>1 tbsp margarine</li><li>1/2 onion</li><li>1 peeled tomato, diced</li><li>150 ml water</li><li>1 tbsp cornstarch</li><li>3 tbsp tomato sauce</li><li>1 tsp Worcestershire sauce</li><li>2 tsp vinegar</li><li>Salt, pepper to taste</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Combine the cabbage, carrot, minced garlic, green onions, minced chicken, and shrimp into a bowl.</li><li>Season with salt and pepper.</li><li>Add the eggs</li><li>Add the potato starch / cornstarch.</li><li>Stir until mixed well.</li><li>Fry the batter until crisp and soft.</li><li>Serve with the sauce.</li>"
+            },
+            {
+                "title": "Steps To Make The Sauce",
+                "content": "<li>Sauté the onion and garlic with margarine.</li><li>Add the tomato.</li><li>Add the tomato sauce, vinegar, and Worcestershire sauce.</li><li>Slowly add cornstarch and water mix.</li><li>Add sugar and salt to taste.</li><li>Cook until the sauces reaches a boil and thickens.</li>"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "slug": "cheap-not-shaby-special-chicken-dim-sum-recipe-tasty-and-bouncy",
+        "imageSrc": "https://img.youtube.com/vi/Y6CPyuQ1jAU/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=Y6CPyuQ1jAU",
+        "title": "Cheap, Not Shabby! Special Chicken Dim Sum Recipe: Tasty and Bouncy",
+        "isFeatured": "no",
+        "categories": [
+            "Chinese Cuisine",
+            "Other",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Shumai Filling Ingredients",
+                "content": "<li>200 g chicken thigh fillet</li><li>50 g chicken skin</li><li>50 g peeled shrimp (interchangeable with chicken)</li><li>2 clove garlic</li><li>1 pc egg whites</li><li>9 tbsp sago flour</li><li>1/2 tbsp salt</li><li>1 tbsp sugar</li><li>1/2 tsp pepper</li><li>1/4 tsp mushroom stock powder</li><li>3 tbsp ice cubes</li><li>2 tsp oyster sauce</li><li>2 tsp sesame oil</li><li>2 tsp soy sauce</li><li>50 g shredded carrots</li><li>15-20 Shumai wrappers</li>"
+            },
+            {
+                "title": "Dipping Sauce Ingredients",
+                "content": "<li>2 clove garlic</li><li>1 pc shallots</li><li>3 bird's eye chili</li><li>1 pc medium-sized red chili</li><li>6 tbsp chili sauce</li><li>1 tbsp vinegar</li><li>150 ml water</li><li>2 tbsp cooking oil</li><li>2 tsp sugar</li><li>1/2 tsp mushroom stock powder</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Add half of the chicken, garlic, sago flour, egg whites, oyster sauce, soy sauce, sesame oil, pepper, salt, sugar, mushroom stock powder, and ice cubes into the food processor. Blend into a smooth consistency.</li><li>Add the rest of the chicken and the shrimp in. Blend for a bit.</li><li>Transfer to a bowl. Add half of the shredded carrots. Mix well.</li><li>Grab a Dim Sum wrapper. Add 2 tbsp of filling and wrap it. Add some shredded carrot on top.</li><li>Steam the Shumai for 15 - 20 minutes.</li><li>For the dipping sauce, mince the garlic, bird's eye chili, and shallots. Sauté until fragrant, then add some water.</li><li>Add the chili sauce, vinegar, sugar, and mushroom stock powder in. Bring to a boil.</li><li>Shumai is ready to serve.</li>"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "slug": "rice-cooker-chicken-indonesian-pilaf-recipe",
+        "imageSrc": "https://img.youtube.com/vi/W41czK5q1yM/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=W41czK5q1yM",
+        "title": "Rice Cooker Chicken Indonesian Pilaf Recipe",
+        "isFeatured": "no",
+        "categories": [
+            "Middle-Eastern Cuisine",
+            "Rice",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Ingredients",
+                "content": "<li>600 g long-grain rice</li><li>50 ml Greenfields milk</li><li>450 ml water</li><li>2 tbsp tomato paste</li><li>1 tbsp stock powder</li><li>500 g chicken thigh fillet</li><li>5 cloves</li><li>12 cardamom</li><li>1/2 nutmeg</li><li>1 cinnamon</li><li>3 bay leaves</li><li>Raisins, to taste</li><li>Fried shallots, to taste</li>"
+            },
+            {
+                "title": "Kebuli Ingredients",
+                "content": "<li>100 ml Greenfields milk</li><li>2 tbsp Ghee / margarine / butter</li><li>2-3 tsp salt</li><li>1 tbsp sugar</li>"
+            },
+            {
+                "title": "Spice Blend Ingredients",
+                "content": "<li>6 clove garlic</li><li>10 shallots</li><li>1 small onion</li><li>1.5 inch ginger</li><li>5 pc curly green chili</li><li>3 pc curly red chili</li><li>1-2 tsp coriander</li><li>1-2 tsp cumin</li><li>1-2 tsp white pepper</li><li>1 lemongrass</li><li>50 ml cooking oil</li>"
+            },
+            {
+                "title": "Vinegar Sambal Ingredients",
+                "content": "<li>6 pc red curly red chili</li><li>8-15 pc bird's eye chili</li><li>2 clove garlic</li><li>1 tbsp vinegar</li><li>1 tbsp sugar</li><li>1/2 tsp salt</li><li>4 tbsp water</li>"
+            },
+            {
+                "title": "Garnish",
+                "content": "<li>Cucumber</li><li>Emping</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Blend the spices and sauté until fragrant and reduced.</li><li>Add the Ghee. Mix well.</li><li>Add the Greenfields milk. Mix well.</li><li>Season with salt and sugar. Mix well.</li><li>Add half the spice blend into the chicken and mix well. Keep the rest to mix with the cooked rice.</li><li>Add the rice, water, milk, clove, cardamom, nutmeg, cinnamon, bay leaves, seasoned chicken, tomato paste, and stock powder into the rice cooker. Remember, do not stir. Turn on the rice cooker and let them cook.</li><li>Make the Vinegar Sambal. Mash the red chili, bird's eye chili, garlic, salt, and sugar. After they are mashed, add vinegar and water. Mix well.</li><li>After the rice is cooked, set the chicken aside. Add the rest of the spice blend into the rice.</li><li>Add raisins and fried shallots. Mix well.</li><li>Fry the chicken or serve them as is.</li><li>Rice Cooker Chicken Nasi Kebuli is ready to serve with Vinegar Sambal, Emping, and cucumber.</li>"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "slug": "only-4-ingredients-tearproof-tortilla-skin-recipe",
+        "imageSrc": "https://img.youtube.com/vi/eA1j3Ge0SFQ/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=eA1j3Ge0SFQ",
+        "title": "Only 4 Ingredients! Tearproof Tortilla Skin Recipe [Kebab Wrap]",
+        "isFeatured": "no",
+        "categories": [
+            "Middle-Eastern Cuisine",
+            "Other",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Ingredients",
+                "content": "<li>500 g all-purpose flour</li><li>135 ml Cimory Squeeze Yogurt Original</li><li>30 ml oil</li><li>170 ml warm water</li><li>1 tsp baking powder</li><li>1 tsp salt</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Combine the all-purpose flour, salt, and baking powder. Mix with chopsticks.</li><li>Add the Cimory Squeeze Yoghurt Original, oil, and warm water. Mix with the chopsticks until a dough is formed.</li><li>After the dough comes together, knead for 1-2 minutes.</li><li>Rest the dough for at least 1-2 hours while covered with a plastic wrap.</li><li>After resting, portion and weigh the dough into 12 even pieces, about 70 g each, and shape into balls.</li><li>Sprinkle the cutting board and the rolling pin with flour. Roll the dough to a circle with a ± 20 cm diameter.</li><li>Heat a non-stick pan. Cook the tortilla until bubbles pop up and the skin browns. Bake the other side until bubbles pop up and the skin browns or to the preferred doneness.</li><li>Keep the tortilla skin covered with a clean cloth dampened with water / moistened so the tortilla doesn't dry out.</li>"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "slug": "complete-3-choices-of-turkish-kebab-recipe-doner-shish-adana",
+        "imageSrc": "https://img.youtube.com/vi/3ieBG1smnuw/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=3ieBG1smnuw",
+        "title": "COMPLETE 3 Choices of Turkish Kebab Recipe: Doner, Shish, and Adana",
+        "isFeatured": "no",
+        "categories": [
+            "Middle-Eastern Cuisine",
+            "Other",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Shish Kebab",
+                "content": "<li>350 g chicken breast fillet, diced</li><li>1 pc bell pepper, diced</li><li>½ pc onion, diced</li><li>2 tbsp Cimory Squeeze Yoghurt Original</li><li>2-3 tsp coriander powder</li><li>2-3 tsp cumin powder</li><li>1 tbsp paprika powder</li><li>2 tsp honey</li><li>3 clove garlic, mashed</li><li>1.5 tbsp mashed onion</li><li>½ tsp pepper</li><li>1.5 tsp salt</li><li>½ tbsp oil</li>"
+            },
+            {
+                "title": "Adana Kebab",
+                "content": "<li>350 g minced beef with fat</li><li>2 tbsp bell pepper, chopped</li><li>2 tbsp onion, chopped</li><li>2 tbsp parsley, chopped</li><li>2 tbsp cilantro, chopped</li><li>2-3 tsp coriander powder</li><li>2-3 tsp cumin powder</li><li>1 tbsp paprika powder</li><li>2 tsp honey</li><li>3 clove garlic, mashed</li><li>1.5 tbsp mashed onion</li><li>½ tsp pepper</li><li>1.5 tsp salt</li><li>½ tbsp oil</li>"
+            },
+            {
+                "title": "Doner Kebab",
+                "content": "<li>250 g sliced beef</li><li>1 tbsp parsley, chopped</li><li>1 tbsp cilantro, chopped</li><li>2-3 tsp coriander powder</li><li>2-3 tsp cumin powder</li><li>1 tbsp paprika powder</li><li>2 tsp honey</li><li>3 clove garlic, mashed</li><li>1.5 tbsp mashed onion</li><li>½ tsp pepper</li><li>1.5 tsp salt</li><li>½ tbsp oil</li>"
+            },
+            {
+                "title": "Other Ingredients",
+                "content": "<li>24 pc tortilla skin</li><li>10 pc romaine lettuce, sliced</li><li>2 pc tomato, diced</li><li>¼ pc onion</li><li>Cilantro, as needed</li><li>Hot sauce, to taste</li><li>Barbecue sauce, to taste</li><li>Mayonnaise, to taste</li><li>Skewers, soaked</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Combine the chicken meat with the marinade, mix well then skewer with skewers alternating between chicken-paprika-onion.</li><li>Combine the minced beef with the marinade, mix well then take a scoop of batter and compact it by throwing it using both hands then wrap it around 3 skewers and compact it using fingers</li><li>Combine the sliced beef with the marinade, mix well.</li><li>Heat the grill pan, grill the chicken and ground beef until cooked and browned.</li><li>Heat the pan, stir-fry the sliced beef until cooked and browned 5.</li><li>Prepare tortilla shells that are first warmed on the pan used to grill the meat, place the cooked chicken / minced beef / sliced meat then add romaine lettuce, tomatoes, cilantro, onions, hot sauce, barbecue sauce, and mayonnaise according to taste and roll the tortilla shell covering the entire filling.</li><li>Kebabs are ready to serve</li>"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "slug": "superbly-aromatic-pratical-pandan-chicken-recipe",
+        "imageSrc": "https://img.youtube.com/vi/ouZxmaynVzU/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=ouZxmaynVzU",
+        "title": "Superbly Aromatic: Practical Pandan Chicken Recipe",
+        "isFeatured": "no",
+        "categories": [
+            "Indian & Other Asian Cuisine",
+            "Chicken",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Ingredients",
+                "content": "<li>650 g / 8 pcs chicken wings</li><li>10 clove garlic</li><li>2 tbsp oil</li><li>2 tbsp fish sauce</li><li>2 tsp chicken powder</li><li>2 tbsp cornstarch / flour</li><li>5 pcs Pandan leaves</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Slice the pandan leaves into 1-cm wide. Add to the wings.</li><li>Pound the garlic thoroughly and add to the wings.</li><li>Add the chicken powder, oil, fish sauce, and cornstarch in.</li><li>Mix well.</li><li>Marinate for 30-60 minutes at room temperature.</li><li>Fry the chicken until crisp and golden brown.</li><li>Serve.</li>"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "slug": "butter-chicken-curry-a-la-restaurant-recipe",
+        "imageSrc": "https://img.youtube.com/vi/vrIZXEIMmro/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=vrIZXEIMmro",
+        "title": "Butter Chicken Curry a la Restaurant Recipe",
+        "isFeatured": "no",
+        "categories": [
+            "Indian & Other Asian Cuisine",
+            "Chicken",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Marinate Ingredients",
+                "content": "<li>400 g chicken thigh fillet, cut to about an inch</li><li>2 clove garlic, grated</li><li>80 ml coconut milk</li><li>1 inch ginger, grated</li><li>1 tsp paprika</li><li>1 tsp turmeric powder</li><li>1 tsp salt</li><li>1/2 tsp pepper</li>"
+            },
+            {
+                "title": "Sauce Ingredients",
+                "content": "<li>3 tbsp Ghee / clarified butter</li><li>1 pc onion</li><li>1 pc tomato</li><li>2 clove garlic</li><li>1 inch ginger</li><li>3 tbsp tomato paste</li><li>100 ml coconut milk</li><li>300 ml water</li><li>1/2 tsp coriander</li><li>1/2 tsp cumin</li><li>1/2 tsp cardamom</li><li>1/4 tsp cinnamon</li><li>1/4 tsp nutmeg</li><li>2 cloves</li><li>1 star anise</li><li>1 bay leaf</li><li>1/4 tsp fenugreek</li><li>Salt, sugar, flavor enhancers to taste</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Combine the chicken with the marinade and let it rest for at least 15 minutes.</li><li>Pan-sear the marinated chicken on high heat until half cooked. Set aside.</li><li>In the same pan, sauté the onion, pounded garlic, and grated ginger.</li><li>Add the Ghee / clarified butter.</li><li>After they wilt, add in the tomato.</li><li>Add the coriander, cardamom, cumin, fenugreek, nutmeg, and cinnamon.</li><li>Sauté until everything wilts, then add the water and tomato paste in. Bring to a boil.</li><li>Blend the sautéed spices. After blending, cook the spice mix once more.</li><li>Add the chicken.</li><li>Add the bay leaf, star anise, and cloves.</li><li>Season with salt and sugar.</li><li>Add the coconut milk bit by bit. Cook until the sauce thickens and the chicken is well-cooked.</li><li>Butter Chicken is ready to serve.</li>"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "slug": "savorry-curry-egg-korma-special-egg-curry-recipe",
+        "imageSrc": "https://img.youtube.com/vi/87YiDQi39t0/maxresdefault.jpg",
+        "videoSrc": "https://www.youtube.com/watch?v=87YiDQi39t0",
+        "title": "Savory Curry: Egg Korma Special Egg Curry Recipe (Indian-style)",
+        "isFeatured": "no",
+        "categories": [
+            "Indian & Other Asian Cuisine",
+            "Egg",
+            "Recipe"
+        ],
+        "ingredients": [
+            {
+                "title": "Spice Blend Ingredients",
+                "content": "<li>6 clove garlic</li><li>10 pc shallots</li><li>2 cm ginger</li><li>2 cm turmeric</li><li>3 pc candlenuts</li><li>3 pc curly red chili</li><li>1/2 tsp coriander</li><li>1/2 tsp cumin</li><li>1/2 tsp cardamom powder</li><li>1/2 tsp cinnamon powder</li><li>5 pc cloves</li><li>Oil, as needed</li><li>Sugar, salt, pepper, flavor enhancers / mushroom stock powder, to taste</li>"
+            },
+            {
+                "title": "Other Ingredients",
+                "content": "<li>6 pc eggs</li><li>240 ml water / broth</li><li>50 ml coconut milk / almond milk / Greek Yogurt</li><li>Cold water, as needed</li>"
+            },
+            {
+                "title": "Garnish",
+                "content": "<li>5 pc shallots (for fried shallots)</li><li>3 pc red radish, slice thinly</li><li>50 g cashews, roughly chopped</li><li>Coriander leaves, as needed</li>"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Steps",
+                "content": "<li>Blend the spices with oil but the cloves.</li><li>Make the fried shallots. Slice the shallots thinly. Heat some oil and fry the shallots on medium heat until golden.</li><li>Heat the oil. Sauté the spice blend until fragrant and browns.</li><li>Add some water, then add the cloves.</li><li>Add the coconut oil bit by bit. Adjust the thickness to your liking.</li><li>Season with sugar, salt, pepper, and flavor enhancers / mushroom stock powder.</li><li>Boil some water and boil the eggs for 5.5 minutes.</li><li>After 5.5 minutes, remove the eggs and dunk them into the ice bath.</li><li>Prepare a plate of warm rice. Place the eggs on top and pour the curry sauce.</li><li>Garnish with fried shallots, red radish, cashew, and coriander leaves.</li><li>Egg Korma is ready to serve.</li>"
+            }
+        ]
+    }
+]

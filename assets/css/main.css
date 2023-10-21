@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base{
+    html,
+    body {
+        font-family: 'Poppins', sans-serif;
+        @apply text-[#404040] text-[16px] lg:text-[20px] font-thin leading-5 lg:leading-6;
+    }
+
+    .nav-brand{
+        font-family: 'Pacifico', sans-serif;
+    }
+}

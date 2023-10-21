@@ -1,0 +1,27 @@
+.full-content-wrapper{
+    @apply bg-white w-full;
+}
+
+.boxed-content-wrapper{
+    @apply bg-white w-full xl:w-[1100px] mx-auto;
+}
+
+.section-padding {
+    @apply px-4 pt-6 md:pt-12;
+}
+
+.section-padding-top {
+    @apply px-0 pt-6 md:pt-12;
+}
+
+.last-section-padding {
+    @apply pb-6 md:pb-12;
+}
+
+.close{
+    @apply hidden;
+}
+
+.open{
+    @apply block;
+}

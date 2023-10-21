@@ -1,5 +1,46 @@
 <template>
-    <NuxtLayout :name="content">
+    <NuxtLayout>
+        <div class="full-content-wrapper">
+            <HeadingBanner :title="bannerTitle" :imageSrc="bannerSrc" />
+        </div>
+        <div class="boxed-content-wrapper section-padding last-section-padding">
+            <h2 class="section-title"><span>Indonesian</span> Cuisine</h2>
+            <div class="recipes-menu">
+                <MenuCard v-for="menu in indonesianMenus" :key="menu.slug" :to="`/recipe/${menu.slug}`" :title="menu.title" :imageSrc="menu.imageSrc" />
+            </div>
+        </div>
+        <div class="boxed-content-wrapper section-padding last-section-padding">
+            <h2 class="section-title"><span>Chinese</span> Cuisine</h2>
+            <div class="recipes-menu">
+                <MenuCard v-for="menu in chineseMenus" :key="menu.slug" :to="`/recipe/${menu.slug}`" :title="menu.title" :imageSrc="menu.imageSrc" />
+            </div>
+        </div>
+        <div class="boxed-content-wrapper section-padding last-section-padding">
+            <h2 class="section-title"><span>Japanese & Korean</span> Cuisine</h2>
+            <div class="recipes-menu">
+                <MenuCard v-for="menu in japanesekoreanMenus" :key="menu.slug" :to="`/recipe/${menu.slug}`" :title="menu.title" :imageSrc="menu.imageSrc" />
+            </div>
+        </div>
+        <div class="boxed-content-wrapper section-padding">
+            <h2 class="section-title"><span>Western & European</span> Cuisine</h2>
+            <div class="recipes-menu">
+                <MenuCard v-for="menu in westerneuropeanMenus" :key="menu.slug" :to="`/recipe/${menu.slug}`" :title="menu.title" :imageSrc="menu.imageSrc" />
+            </div>
+        </div>
+        <div class="boxed-content-wrapper section-padding">
+            <h2 class="section-title"><span>Middle-Eastern</span> Cuisine</h2>
+            <div class="recipes-menu">
+                <MenuCard v-for="menu in middleeastMenus" :key="menu.slug" :to="`/recipe/${menu.slug}`" :title="menu.title" :imageSrc="menu.imageSrc" />
+            </div>
+        </div>
+        <div class="boxed-content-wrapper section-padding last-section-padding">
+            <h2 class="section-title"><span>Indian & Other Asian</span> Cuisine</h2>
+            <div class="recipes-menu">
+                <MenuCard v-for="menu in otherasianMenus" :key="menu.slug" :to="`/recipe/${menu.slug}`" :title="menu.title" :imageSrc="menu.imageSrc" />
+            </div>
+        </div>
+    </NuxtLayout>
+    <!-- <NuxtLayout :name="content">
         <div class="flex py-2">
             <span class="text-2xl text-black font-bold">Recipes</span>
         </div>
@@ -16,44 +57,63 @@
             <card link="/recipes/rawon" :url="url6" :alt="alt6" :title="title6" :menuTag="menuTag6"></card>
             <card link="/recipes/ayambetutu" :url="url7" :alt="alt7" :title="title7" :menuTag="menuTag7"></card>      
         </div>
-    </NuxtLayout>
+    </NuxtLayout> -->
 </template>
 
+<style scoped>
+.page-title{
+    @apply text-[24px] lg:text-[28px] font-medium leading-7 lg:leading-8 mb-3;
+}
+
+.section-title{
+    @apply text-[20px] lg:text-[24px] font-medium leading-6 lg:leading-7 mb-3;
+}
+
+.section-title span{
+    @apply text-violet-700;
+}
+
+.recipes-menu{
+    @apply grid grid-cols-1 xl:grid-cols-4 gap-3 h-auto;
+}
+</style>
+
 <script setup>
+    // head meta
+    useHead({
+        title: 'Recipes - Cooking Recipes',
+    });
+
     // route
     const route = useRoute();
     console.log(route.params);
 
-    // layout
-    const content='content';
+    import menus from '~/assets/api/recipes.json';
 
-    // data
-    const url1 = '/images/img1.jpg';
-    const alt1= 'Photo by amirali mirhashemian on Unsplash';
-    const title1 = 'Burger recipe';
-    const menuTag1 = 'burger';
-    const url2 = '/images/img2.jpg';
-    const alt2= 'Photo by Bawah Reserve on Unsplash';
-    const title2 = 'Rendang recipe';    
-    const menuTag2 = 'rendang';
-    const url3 = '/images/img3.jpg';
-    const alt3= 'Photo by Mahmoud Fawzy on Unsplash';
-    const title3 = 'Sushi roll recipe';
-    const menuTag3 = 'sushi';
-    const url4 = '/images/img4.jpg';
-    const alt4= 'Cheese Burger';
-    const title4 = 'Resep Cheese Burger Ala IN-N-OUT California Amerika';
-    const menuTag4 = 'burger';
-    const url5 = '/images/img5.jpg';
-    const alt5 = 'Sambal Tempe';
-    const title5 = 'Resep SAMBAL TEMPE GOANG Khas Sunda';
-    const menuTag5 = 'tempe';
-    const url6 = '/images/img6.jpg';
-    const alt6 = 'Rawon';
-    const title6 = 'Resep RAWON KHAS JAWA TIMUR';    
-    const menuTag6 = 'rawon';
-    const url7 = '/images/img7.jpg';
-    const alt7 = 'Ayam Betutu';
-    const title7 = 'Resep AYAM BETUTU KOMPLIT Khas Bali';
-    const menuTag7 = 'ayam';
+    const bannerTitle = "Recipes";
+    const bannerSrc = "https://img.youtube.com/vi/dxjYvC9c_CQ/maxresdefault.jpg";
+
+    const indonesianMenus = menus.filter((m) => {
+        return m.categories.some((c) => c.toLowerCase() === 'indonesian cuisine');
+    });
+
+    const westerneuropeanMenus = menus.filter((m) => {
+        return m.categories.some((c) => c.toLowerCase() === 'western & european cuisine');
+    });
+
+    const japanesekoreanMenus = menus.filter((m) => {
+        return m.categories.some((c) => c.toLowerCase() === 'japanese & korean cuisine');
+    });
+
+    const chineseMenus = menus.filter((m) => {
+        return m.categories.some((c) => c.toLowerCase() === 'chinese cuisine');
+    });
+
+    const middleeastMenus = menus.filter((m) => {
+        return m.categories.some((c) => c.toLowerCase() === 'middle-eastern cuisine');
+    });
+
+    const otherasianMenus = menus.filter((m) => {
+        return m.categories.some((c) => c.toLowerCase() === 'indian & other asian cuisine');
+    })
 </script>
