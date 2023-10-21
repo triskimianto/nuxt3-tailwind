@@ -76,5 +76,7 @@
 </style>
 
 <script setup>
-    // const content="content"
+    useHead({
+        title: 'About - Cooking Recipes',
+    });
 </script>
